@@ -1,3 +1,4 @@
-# blockchain-gamedev
+# Blockchain Game Development
 
-This repository contains the website to share forms in an easy and effective way to the target demographic
+- [For Developers](https://goo.gl/forms/uozjYFGHQAukgBFS2)
+- [For Players](https://goo.gl/forms/GPK2PsbrSLGIEban1)
